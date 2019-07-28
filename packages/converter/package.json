@@ -65,7 +65,7 @@
         "url": "https://github.com/iotaledger/iota.js.git/tree/develop/packages/crypto"
     },
     "devDependencies": {
-        "riteway": "^6.0.3",
+        "riteway": "^6.1.0",
         "watch": "^1.0.2"
     },
     "dependencies": {

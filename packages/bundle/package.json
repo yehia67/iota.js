@@ -65,7 +65,7 @@
         "warning": "^4.0.3"
     },
     "devDependencies": {
-        "riteway": "^6.0.3",
+        "riteway": "^6.1.0",
         "watch": "^1.0.2"
     }
 }

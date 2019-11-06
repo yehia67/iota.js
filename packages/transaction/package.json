@@ -69,7 +69,7 @@
     "devDependencies": {
         "@iota/pad": "^1.0.0-beta.19",
         "@iota/samples": "^1.0.0-beta.12",
-        "riteway": "^6.0.3",
+        "riteway": "^6.1.1",
         "watch": "^1.0.2"
     }
 }
